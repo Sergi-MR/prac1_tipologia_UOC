@@ -26,7 +26,7 @@ L'arxiu del dataset es troba a **db_FA.csv** i en aquest dataset hi podem trobar
 -	Nombre de votacions
 - Pàgina web oficial
 
-Com a mkostra, en el dataset adjunt es troben les 500 películes que ens ha permès consultar FA fetes a USA entre els anys 2015 i 2019 i a Espanya entre els anys 1990 i 2000. 
+Com a mkostra, en el dataset adjunt es troben les 500 películes que ens ha permès consultar FA fetes a USA entre els anys 2015 i 2019 i a Espanya entre els anys 1990 i 2000. En total, doncs, el dataset d'exemple consta de 1000 pel·lícules.
 
 ## Llicència MIT
 
